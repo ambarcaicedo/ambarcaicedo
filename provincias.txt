@@ -1,0 +1,50 @@
+{
+  "1": {
+    "provincia": "AZUAY",
+  "2": {
+    "provincia": "BOLIVAR",
+  "3": {
+    "provincia": "CAÑAR",
+  "4": {
+    "provincia": "CARCHI",
+  "5": {
+    "provincia": "COTOPAXI",
+  "6": {
+    "provincia": "CHIMBORAZO",
+  "7": {
+    "provincia": "EL ORO",
+  "8": {
+    "provincia": "ESMERALDAS",
+  "9": {
+    "provincia": "GUAYAS",
+  "10": {
+    "provincia": "IMBABURA",
+  "11": {
+    "provincia": "LOJA",
+  "12": {
+    "provincia": "LOS RIOS",
+  "13": {
+    "provincia": "MANABI",
+  "14": {
+    "provincia": "MORONA SANTIAGO",
+  "15": {
+    "provincia": "NAPO",
+  "16": {
+    "provincia": "PASTAZA",
+  "17": {
+    "provincia": "PICHINCHA",
+  "18": {
+    "provincia": "TUNGURAHUA",
+  "19": {
+    "provincia": "ZAMORA CHINCHIPE",
+  "20": {
+    "provincia": "GALAPAGOS",
+  "21": {
+    "provincia": "SUCUMBIOS",
+  "22": {
+    "provincia": "ORELLANA",
+  "23": {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+  "24": {
+    "provincia": "SANTA ELENA"}
+}
